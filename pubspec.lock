@@ -86,14 +86,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "5.0.0"
-  flutter_sticky_header:
-    dependency: "direct main"
-    description:
-      name: flutter_sticky_header
-      sha256: "7f76d24d119424ca0c95c146b8627a457e8de8169b0d584f766c2c545db8f8be"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.7.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -180,21 +172,13 @@ packages:
     source: hosted
     version: "1.15.0"
   mocktail:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: mocktail
       sha256: "890df3f9688106f25755f26b1c60589a92b3ab91a22b8b224947ad041bf172d8"
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
-  nested:
-    dependency: transitive
-    description:
-      name: nested
-      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -203,14 +187,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
-  provider:
-    dependency: "direct main"
-    description:
-      name: provider
-      sha256: c8a055ee5ce3fd98d6fc872478b03823ffdb448699c6ebdbbc71d59b596fd48c
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.1.2"
   resultfy:
     dependency: "direct main"
     description:
@@ -304,14 +280,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.4.0"
-  value_layout_builder:
-    dependency: transitive
-    description:
-      name: value_layout_builder
-      sha256: c02511ea91ca5c643b514a33a38fa52536f74aa939ec367d02938b5ede6807fa
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.4.0"
   vector_math:
     dependency: transitive
     description:
