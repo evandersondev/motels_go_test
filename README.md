@@ -12,6 +12,16 @@
 
 # 🚀 **Guia de Moteis GO**
 
+<br>
+<br>
+
+<video style="display: flex; align-items: center; justify-content: center;" width="280" height="580" controls>
+  <source src="assets/videos/video.mp4" type="video/mp4">
+</video>
+
+<br>
+<br>
+
 Welcome to **Guia de Moteis GO**! This project showcases simple architecture with Flutter, incorporating key principles like SOLID, Dependency Injection, and more. Let's dive into the details!
 
 <br>
